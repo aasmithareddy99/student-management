@@ -41,4 +41,6 @@ Thumbs.db
 
 # Admin-only issue drafts (not for student forks)
 ISSUES.md
+ASSIGNMENTS.md
+ASSIGNS.md
 assigns.md
