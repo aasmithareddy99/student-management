@@ -7,6 +7,9 @@
 // TODO: Check if grade is 0-100
 //
 int is_valid_grade(int grade) {
-    // TODO: Implement this function
-    return 0;
+        if (grade >= 0 && grade <= 100)
+            return 1;
+
+        return 0;
+
 }

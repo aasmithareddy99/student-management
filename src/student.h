@@ -108,7 +108,7 @@ int is_valid_email(const char *email);
 int is_valid_phone(const char *phone);
 
 // Issue #24: is_valid_grade
-int is_valid_grade(int grade);
+int is_valid_grade(int grade) ;
 
 // Issue #25: is_valid_name
 int is_valid_name(const char *name);
